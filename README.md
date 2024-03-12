@@ -3,12 +3,13 @@
 
 ## Description
 
-A full-stack eCommerce application built with React and Node Js, express, mondgodb. The project aims to provide users with a seamless online shopping experience, featuring a responsive and user-friendly interface, a wide range of products, and secure payment options and some other functionality..
+A full-stack eCommerce application built with React and Node Js, express, mongodb. The project aims to provide users with a seamless online shopping experience, featuring a responsive and user-friendly interface, a wide range of products, and secure payment options and some other functionality..
 
 
 ## Features
 
 - User registration and authentication.
+- User reset password
 - Browse through a variety of products in different categories.
 - User update profile
 - Add products to the cart and manage cart items.
